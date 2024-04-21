@@ -1,0 +1,12 @@
+-----------------------------------
+|            ColorSelector         |
+-----------------------------------
+| - redBar: ScrollBar              |
+| - greenBar: ScrollBar            |
+| - blueBar: ScrollBar             |
+| - opacityBar: ScrollBar          |
+| - text: Text                     |
+-----------------------------------
+| + start(Stage primaryStage): void|
+| - updateColor(): void            |
+-----------------------------------
